@@ -3,7 +3,7 @@
 
 
 ## About The Project
-Warbler is a simple clone of Twitter.
+Warbler is a simplified version of Twitter.
 
 Deployed with Heroku: https://dylan-twitter-clone.herokuapp.com
 
@@ -16,11 +16,9 @@ Deployed with Heroku: https://dylan-twitter-clone.herokuapp.com
 * SQLAlchemy
 
 
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps. Note that you will need `pip`, `ipython` and `postgresql` installed globally on your machine. 
+To get a local copy up and running, follow these simple steps. Note that you will need `pip`, `ipython` and `postgresql` installed globally on your machine. 
 
 ### Installation
 
@@ -46,7 +44,7 @@ To get a local copy up and running follow these simple steps. Note that you will
   ```
 * create database
   ```sh
-  createdb warbler
+  Createdb warbler
   ```
 * Open ipython (make sure you are in the root directory)
   ```sh
