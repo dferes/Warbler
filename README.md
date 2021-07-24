@@ -40,11 +40,11 @@ To get a local copy up and running, follow these simple steps. Note that you wil
    ```
 * Set up environment variables
   ```sh
-  export FLASK_ENV=production
+  export FLASK_ENV=development
   ```
 * create database
   ```sh
-  Createdb warbler
+  createdb warbler
   ```
 * Open ipython (make sure you are in the root directory)
   ```sh
